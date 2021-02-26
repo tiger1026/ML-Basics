@@ -1,1 +1,1 @@
-# Machine-Learning-Essentials
+# Machine-Learning Basics
